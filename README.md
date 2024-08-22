@@ -8,10 +8,9 @@ To display an image in HTML, you can use the following code:
 </head>
 <body>
 
-    <img src="image.jpg" alt="Description of the image">
+    <img src="https://telegra.ph/file/9adca9b5b7764b2c1ed09.jpg" alt="Description of the image">
 
 </body>
 </html>
 ```
 
-Replace "image.jpg" with the path to the image you want to display and provide a brief description in the "alt" attribute.
